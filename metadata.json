@@ -1,0 +1,6 @@
+{
+  "name": "Syllabus Notes AI",
+  "description": "An AI-powered college notes maker that automatically structures syllabus topics and generates comprehensive study notes using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
